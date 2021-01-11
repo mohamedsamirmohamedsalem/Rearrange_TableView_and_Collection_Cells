@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Table-App-Demo
 //
-//  Created by Hassan Mostafa on 7/3/19.
-//  Copyright © 2019 Minds. All rights reserved.
+//  Created by Mohamed Samir on 1/10/21.
+//  Copyright © 2021 Minds. All rights reserved.
 //
 
 import UIKit
